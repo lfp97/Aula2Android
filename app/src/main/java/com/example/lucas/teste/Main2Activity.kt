@@ -3,8 +3,10 @@ package com.example.lucas.teste
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_main2.*
+import kotlinx.android.synthetic.main.activity_main2.view.*
 import java.util.*
 
 class Main2Activity : AppCompatActivity()
